@@ -1,6 +1,6 @@
 {
   "name": "credircard-info",
-  "version": "0.2.0",
+  "version": "0.2.3",
   "description": "Rules from credit card from Brazil",
   "main": "index.js",
   "scripts": {
