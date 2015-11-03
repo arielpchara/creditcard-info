@@ -19,10 +19,12 @@ Visa Electron
 Maestro
 
 
-´´´javascript
+```javascript
 
 var credircards = require('credircard-brands');
 
-var card = new credircards('21654687987954654');
+var card = CredircardInfo('4514166365215946').getBrand();
 
-´´´
+// elo
+
+```
