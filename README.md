@@ -1,5 +1,33 @@
 # Credit Card Brands
 
-## I made a mistake and had to rewrite the module name
+## Globals
+* visa
+* master
+* amex
+* dinersclub
+* discover
+* unionpay
+* jcb
+* forbrugsforeningen
+* dankort
 
-[creditcard-info](https://www.npmjs.com/package/creditcard-info)
+## Brazil
+* ELO
+* Hipercard
+* Aura
+* Visa Electron
+* Maestro
+
+```
+npm i creditcard-info
+```
+
+```javascript
+var creditcards = require('creditcard-info');
+CreditcardInfo('4514166365215946').getBrand(); // elo
+```
+
+### Test
+```
+mocha
+```
