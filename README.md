@@ -23,8 +23,8 @@ npm i creditcard-info
 ```
 
 ```javascript
-var creditcards = require('creditcard-info');
-CreditcardInfo('4514166365215946').getBrand(); // elo
+var creditcardsInfo = require('creditcard-info');
+creditcardsInfo('4514166365215946').getBrand(); // elo
 ```
 
 ### Test
