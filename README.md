@@ -19,13 +19,12 @@
 * Maestro
 
 ```
-npm i credircard-info
+npm i creditcard-info
 ```
 
 ```javascript
-var credircards = require('credircard-info');
-var card = CredircardInfo('4514166365215946').getBrand();
-// elo
+var creditcards = require('creditcard-info');
+CreditcardInfo('4514166365215946').getBrand(); // elo
 ```
 
 ### Test
