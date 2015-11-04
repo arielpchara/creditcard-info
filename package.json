@@ -1,6 +1,6 @@
 {
   "name": "creditcard-info",
-  "version": "0.2.5",
+  "version": "0.2.6",
   "description": "Rules from credit card from Brazil",
   "main": "index.js",
   "scripts": {
@@ -15,6 +15,9 @@
     "type": "git",
     "url": "git@github.com:arielpchara/credircard-info.git"
   },
+  "keywords": [
+    "creditcard","validations","brazilian","brands"
+  ],
   "license": "MIT",
   "dependencies": {
     "lodash": "^3.10.1",
