@@ -1,6 +1,6 @@
 {
   "name": "credircard-info",
-  "version": "0.3.4",
+  "version": "0.3.5",
   "description": "Deprecated! Rules from credit card from Brazil",
   "main": "index.js",
   "scripts": {
